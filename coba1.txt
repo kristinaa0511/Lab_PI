@@ -1,3 +1,5 @@
 Ini adalah repositori github Praktikum Pemrograman Integratif
 Ini merupakan tugas Lab PI 
 Git Push dan Pull
+Membahas mengenai Git dan Github
+Melakukan push dan pull
