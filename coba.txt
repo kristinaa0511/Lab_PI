@@ -1,3 +1,4 @@
 Mencoba Git
 
 Ini adalah Praktikum Pemrograman Integratif
+Mempelajari hal-hal mengenai git dan github
