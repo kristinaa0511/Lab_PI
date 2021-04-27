@@ -1,2 +1,4 @@
 Ini adalah repositori github Praktikum Pemrograman Integratif
 Repo github digunakan untuk mengerjakan tugas.
+Ini merupakan tugas Lab PI 
+Git Push dan Pull
